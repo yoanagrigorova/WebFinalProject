@@ -1,0 +1,50 @@
+
+#registration {
+    top:50px;
+    position: relative;
+    width:50%;
+    margin:auto;
+    background: rgb(219, 245, 245);
+    border-radius: 10px;
+}
+
+#registration form {
+    width: 50%;
+    margin:auto;
+}
+
+#registration fieldset{
+    border:none;
+    margin: auto;
+    width: 70%
+}
+
+#registration label {
+    display: block;
+    padding: 5px;
+    font-weight: bold;
+}
+
+#registration h1{
+    text-align: center;
+}
+
+
+.form-input{
+    display: block;
+    height: 25px;
+    width: 260px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+#registration button{
+    position: relative;
+    margin-top:10px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(64, 127, 127);
+    color: white;
+    width: 260px;
+}
